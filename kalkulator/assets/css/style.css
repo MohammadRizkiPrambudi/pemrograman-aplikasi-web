@@ -1,0 +1,15 @@
+ body{
+  background-color: #DCDCDC;
+}
+.col-md-5{
+  margin-top: 60px;
+}
+.card{
+  height: 490px;
+  border-color: #FFEFD5;
+  box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+}
+.title{
+  margin-top: 10px;
+}
+
